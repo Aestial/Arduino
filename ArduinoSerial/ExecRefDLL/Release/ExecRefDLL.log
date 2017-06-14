@@ -1,0 +1,17 @@
+﻿Build started 25/07/2014 09:16:54 p.m..
+     1>Project "C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\ExecRefDLL\ExecRefDLL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\ArduinoSerial" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ExecRefDLL.cpp
+         ExecRefDLL.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\Release\ExecRefDLL.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\Release\ExecRefDLL.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\Release\ExecRefDLL.lib" /MACHINE:X86 /SAFESEH Release\ExecRefDLL.obj
+         Release\stdafx.obj
+         "C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\Release\ArduinoSerial.lib"
+         Generating code
+         Finished generating code
+         ExecRefDLL.vcxproj -> C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\Release\ExecRefDLL.exe
+     1>Done Building Project "C:\Users\Jaime\Documents\Visual Studio 2013\Projects\ArduinoSerial\ExecRefDLL\ExecRefDLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.10
